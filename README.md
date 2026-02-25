@@ -391,15 +391,6 @@ logging.basicConfig(level=logging.DEBUG)
 - Add docstrings to all public functions
 - Maintain test coverage >90%
 
-## License
-
-MIT License - see LICENSE file for details.
-
-## Acknowledgments
-
-- Dr. Yashvardhan Sharma, BITS Pilani
-- OpenStreetMap contributors
-- PostGIS development team
 
 ## Contact
 
